@@ -1,3 +1,5 @@
+tiktok-developers-site-verification=njsTTKNLkGE1NbhCmwlVjk44EzHfNi9R
+
 # Terms of Service
 
 **Effective Date:** 18-10-2024
